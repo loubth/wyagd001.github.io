@@ -6,3 +6,10 @@
 <!--![Image text](https://raw.githubusercontent.com/wyagd001/wyagd001.github.io/master/img/zfb.png) -->
 
 ![Image text](https://autohotkey.com/assets/images/ahk-logo-no-text241x78-180.png)
+
+
+
+
+
+---
+挂到github page上可以学习ahk
